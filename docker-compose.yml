@@ -4,6 +4,4 @@ services:
       - ./somefolder/.env
     image: hello-world
     container_name: hello-world
-    ports:
-      - "8080:8080"
     
