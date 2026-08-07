@@ -1,5 +1,5 @@
 services:
-  http-https-echo:
+  hello-world:
     env_file:
       - ./somefolder/.env
     image: hello-world
